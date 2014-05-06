@@ -1,0 +1,2 @@
+require 'hola_ti'
+puts Hola.hi(ARGV[0])
